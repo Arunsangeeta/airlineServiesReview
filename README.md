@@ -1,5 +1,5 @@
 # airlineServiesReview
-Analysing dataset to discover customer sentiments, trends overtime , predicts ratings , impact of good services 
-Flights: Air france, All Nippon Airways, Cathay Pacific Airways, Emirates, Eva Air, Japan Airlines, Korean Air, Qatar Airways, Singapore Airlines, Turkish Airlines
+DATASOURCE: KAGGLE
+TOTAL ROWS 8101
+Dataset provide information on 10 flights(Air france, All Nippon Airways, Cathay Pacific Airways, Emirates, Eva Air, Japan Airlines, Korean Air, Qatar Airways, Singapore Airlines, Turkish Airlines) in a span of 10 year from 2016 to 2026.
 
-![image](https://github.com/Arunsangeeta/airlineServiesReview/assets/110085545/6a870912-7b2f-44f5-81df-ad618492b1c2)
