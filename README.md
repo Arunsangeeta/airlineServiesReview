@@ -8,7 +8,9 @@ DATA CLEANING- SQL, EXCEL
 EXPLORATORY ANALYSIS AND DATA VALIDATION- SQL
 DATA VISUALIZATION - EXCEL
 <br>
+
 # INSIGHTS
+
 <br>
 This project provide insight about customer feedback for each flights.
 <br>
