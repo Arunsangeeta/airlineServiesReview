@@ -16,7 +16,7 @@ This project provide insight about customer feedback for each flights.
 <br>
 From the above flights QATAR AIRWAYS and SINGAPORE has most positive review.
 <br>
-Turkish airline airline has most negative review.
+Turkish airline has most negative review.
 <br>
 The busiest months are december, january, october and november.
 <br>
