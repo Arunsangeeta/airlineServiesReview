@@ -1,5 +1,6 @@
-<h2>About Airline Servies dataset<h2></h2>
-<b>DATASOURCE</b>KAGGLE<br>
+<h4>About Airline Servies dataset</h4>
+
+<b>DATASOURCE: </b>KAGGLE<br>
 TOTAL ROWS 8101<br>
 Dataset provide information on 10 flights(Air france, All Nippon Airways, Cathay Pacific Airways, Emirates, Eva Air, Japan Airlines, Korean Air, Qatar Airways, Singapore Airlines, Turkish Airlines) in a span of 10 year from 2016 to 2026.
 # Tools Used
