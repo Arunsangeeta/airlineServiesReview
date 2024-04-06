@@ -7,7 +7,7 @@ TOTAL ROWS 8101<br>
 Dataset file containcustomer feedback about 10 airlines. Customer gave random feedback on food services, entertainment, comfort seat, staff services. they gave rating to airlines as well as recoomendation on future basis. This file also contain information about type of traveller and which type of class travels.The dataset also contain information about year and date flights flown.
 
 <h4>Project Description</h4>
-<h3>Tools Used</h3>
+<h5>Tools Used</h5>
 DATA CLEANING- SQL, EXCEL<br>
 EXPLORATORY ANALYSIS AND DATA VALIDATION- SQL<br>
 DATA VISUALIZATION - EXCEL
