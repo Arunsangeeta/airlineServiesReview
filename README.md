@@ -1,11 +1,13 @@
 <h4>About Airline Servies dataset</h4>
 
-<b>DATASOURCE: </b>KAGGLE<br>
+<b>DATASOURCE: </b>KAGGLE PLATFORM<br>
 TOTAL ROWS 8101<br>
-Dataset provide information on 10 flights(Air france, All Nippon Airways, Cathay Pacific Airways, Emirates, Eva Air, Japan Airlines, Korean Air, Qatar Airways, Singapore Airlines, Turkish Airlines) in a span of 10 year from 2016 to 2026.
-# Tools Used
-<br>**************************************
-  <br>
+
+<h4>Data Description</h4>
+Dataset file containcustomer feedback about 10 airlines. Customer gave random feedback on food services, entertainment, comfort seat, staff services. they gave rating to airlines as well as recoomendation on future basis. This file also contain information about type of traveller and which type of class travels.The dataset also contain information about year and date flights flown.
+
+<h4>Project Description</h4>
+<h3>Tools Used</h3>
 DATA CLEANING- SQL, EXCEL<br>
 EXPLORATORY ANALYSIS AND DATA VALIDATION- SQL<br>
 DATA VISUALIZATION - EXCEL
