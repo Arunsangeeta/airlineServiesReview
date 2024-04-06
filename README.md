@@ -14,6 +14,7 @@ DATA VISUALIZATION - EXCEL
 <br>
 <h3>Table before data cleaning</h3>
 ![p1](https://github.com/Arunsangeeta/airlineServiesReview/assets/110085545/9dbc26b8-9ec1-490a-82e7-496167b8ea0b)
+![p1](https://github.com/Arunsangeeta/airlineServiesReview/assets/110085545/94c5b104-b1d8-4634-9114-a32cc0d8ba20)
 
 # Insights
 
