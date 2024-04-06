@@ -1,4 +1,4 @@
-<h4>About Airline Servies dataset</h4>
+![image](https://github.com/Arunsangeeta/airlineServiesReview/assets/110085545/0817c077-89f8-4dea-bb18-739a40491606)<h4>About Airline Servies dataset</h4>
 
 <b>DATASOURCE: </b>KAGGLE PLATFORM<br>
 TOTAL ROWS 8101<br>
@@ -53,12 +53,17 @@ Drawn some insights using sql code and visualization through Excel (Check file a
 
 ![image](https://github.com/Arunsangeeta/airlineServiesReview/assets/110085545/3cfb866f-ce50-4b5d-ac09-9319448ab24b)
 
+<h3>Q :Which Airline has poor and good food services </h3>
+
+![image](https://github.com/Arunsangeeta/airlineServiesReview/assets/110085545/2539553b-5a58-4af3-963f-f1a00ae5b49e)
 
 
+<h3>Q :Which month is most busy and also individually for each flight </h3>
 
+![image](https://github.com/Arunsangeeta/airlineServiesReview/assets/110085545/5e3aa394-6159-4d95-8e3e-d980b4d3ed31)
 
-
-
+<h3>Q :Which Year is mostly busy ? </h3>
+![image](https://github.com/Arunsangeeta/airlineServiesReview/assets/110085545/83698b20-a0c9-484b-8260-1ba586ebe650)
 
 
 # Insights
