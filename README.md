@@ -1,4 +1,4 @@
-![image](https://github.com/Arunsangeeta/airlineServiesReview/assets/110085545/0817c077-89f8-4dea-bb18-739a40491606)<h4>About Airline Servies dataset</h4>
+<h4>About Airline Servies dataset</h4>
 
 <b>DATASOURCE: </b>KAGGLE PLATFORM<br>
 TOTAL ROWS 8101<br>
