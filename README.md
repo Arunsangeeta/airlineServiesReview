@@ -13,8 +13,16 @@ EXPLORATORY ANALYSIS AND DATA VALIDATION- SQL<br>
 DATA VISUALIZATION - EXCEL
 <br>
 <h3>Table before data cleaning</h3>
-![p1](https://github.com/Arunsangeeta/airlineServiesReview/assets/110085545/9dbc26b8-9ec1-490a-82e7-496167b8ea0b)
-![p1](https://github.com/Arunsangeeta/airlineServiesReview/assets/110085545/94c5b104-b1d8-4634-9114-a32cc0d8ba20)
+
+![p1](https://github.com/Arunsangeeta/airlineServiesReview/assets/110085545/d0f3fcd1-d015-43a0-93f2-bbf74a3222cf)
+![p2](https://github.com/Arunsangeeta/airlineServiesReview/assets/110085545/470a3af9-1b21-4db7-a795-c72c90f35a90)
+
+<h3>Data after cleaning</h3>
+
+![p3](https://github.com/Arunsangeeta/airlineServiesReview/assets/110085545/16bf8494-3a66-412a-b86a-f8c3aaaacf16)
+
+<h3>Exploratory Data </h3>
+
 
 # Insights
 
