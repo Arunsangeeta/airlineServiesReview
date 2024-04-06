@@ -21,7 +21,44 @@ DATA VISUALIZATION - EXCEL
 
 ![p3](https://github.com/Arunsangeeta/airlineServiesReview/assets/110085545/16bf8494-3a66-412a-b86a-f8c3aaaacf16)
 
-<h3>Exploratory Data </h3>
+<h3>Exploratory Data Analysis Using MYSQL</h3>
+Drawn some insights using sql code and visualization through Excel (Check file above) <br>
+<h3>EDL SQL CODE</h3><br>
+
+![p3](https://github.com/Arunsangeeta/airlineServiesReview/assets/110085545/3475607a-be06-4451-9716-42ae6b5c17f2)
+
+![p4](https://github.com/Arunsangeeta/airlineServiesReview/assets/110085545/9f06473c-c23c-4b78-ad67-973627abcb52)
+
+![p5](https://github.com/Arunsangeeta/airlineServiesReview/assets/110085545/001efd7f-4a94-48c5-b789-e3dc90a8ea55)
+
+
+<h3>let's understand this code through visualization</h3>
+<h3>Q : Which airline has highest review? how many verified review?. which airline has highest postive review? </h3>
+
+![review](https://github.com/Arunsangeeta/airlineServiesReview/assets/110085545/781c378f-f6c3-48a5-bc7c-605409968838)
+
+<h3>Q: Which type of travellers travel more  in total and in each flight? </h3>
+
+![p6](https://github.com/Arunsangeeta/airlineServiesReview/assets/110085545/7ae22092-e8cd-4236-bf8f-27948ddc2214)
+
+<h3>Q : Which flight is most recommended? </h3>
+
+![image](https://github.com/Arunsangeeta/airlineServiesReview/assets/110085545/3adc792a-6bfc-4b80-835b-fe1f0cf5b9c9)
+
+<h3>Q :Which airline has most comfortable seat? </h3>
+
+![image](https://github.com/Arunsangeeta/airlineServiesReview/assets/110085545/f3a423fb-dac4-4b3a-bbba-7f6b737d66ff)
+
+<h3>Q :Which airline has Poor and good staff services? </h3>
+
+![image](https://github.com/Arunsangeeta/airlineServiesReview/assets/110085545/3cfb866f-ce50-4b5d-ac09-9319448ab24b)
+
+
+
+
+
+
+
 
 
 # Insights
