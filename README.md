@@ -12,6 +12,9 @@ DATA CLEANING- SQL, EXCEL<br>
 EXPLORATORY ANALYSIS AND DATA VALIDATION- SQL<br>
 DATA VISUALIZATION - EXCEL
 <br>
+<h3>Table before data cleaning</h3>
+![image](https://github.com/Arunsangeeta/airlineServiesReview/assets/110085545/37147112-bf9a-484d-aac6-617084a9653a)
+
 
 # Insights
 
