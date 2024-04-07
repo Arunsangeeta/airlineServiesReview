@@ -14,12 +14,15 @@ DATA VISUALIZATION - EXCEL
 <br>
 <h3>Table before data cleaning</h3>
 
-![p1](https://github.com/Arunsangeeta/airlineServiesReview/assets/110085545/d0f3fcd1-d015-43a0-93f2-bbf74a3222cf)
-![p2](https://github.com/Arunsangeeta/airlineServiesReview/assets/110085545/470a3af9-1b21-4db7-a795-c72c90f35a90)
+![p1](https://github.com/Arunsangeeta/airlineServiesReview/assets/110085545/85d5d0b2-87b8-401b-810b-075d90c95555)
+
+![p2](https://github.com/Arunsangeeta/airlineServiesReview/assets/110085545/f183a03b-a60b-4bce-9089-54f1d0797a05)
+
 
 <h3>Data after cleaning</h3>
 
-![p3](https://github.com/Arunsangeeta/airlineServiesReview/assets/110085545/16bf8494-3a66-412a-b86a-f8c3aaaacf16)
+![p31](https://github.com/Arunsangeeta/airlineServiesReview/assets/110085545/a18945f5-2c26-4b1a-a671-27326c715b25)
+
 
 <h3>Exploratory Data Analysis Using MYSQL</h3>
 Drawn some insights using sql code and visualization through Excel (Check file above) <br>
